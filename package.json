@@ -1,0 +1,20 @@
+{
+  "name": "hexlet-git",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Hello, Hexlet! How are you?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/N3IMYS/hexlet-git.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/N3IMYS/hexlet-git/issues"
+  },
+  "homepage": "https://github.com/N3IMYS/hexlet-git#readme"
+}
